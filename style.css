@@ -5,3 +5,9 @@
     --oxford-blue: #03012cff;
     --dark-green: #002a22ff;
 }
+/* 
+* {
+    font-family:sans-serif;
+    background-color: var(--oxford-blue);
+    color:white;
+} */
